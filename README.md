@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Teplohoodd
 - 👀 I'm actually interested in a lot of things, so I'd rather show you the spread: chess, computer games, business, programming, design, sports, music, drawing, mathematics, construction, solving case championships, AI, physics, computer assembly, strategies, reading
-- 🌱 Now I'm learning to play the guitar, learning to solve non-standard tasks and improving my python skills. I want to learn a new programming language, but I'm still at a crossroads.
-- 💞️ I want to work in a large company and really develop what the world needs
+- 🌱 Now I'm learning to play the guitar and drums, learning to solve non-standard tasks and improving my python skills. I want to learn a new programming language, but I'm still at a crossroads.
 - 📫 You can write to me by telegram: @https://t.me/ocean_LCL or by email: abvvladivanov@gmail.com
